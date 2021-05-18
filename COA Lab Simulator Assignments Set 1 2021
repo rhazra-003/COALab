@@ -1,0 +1,29 @@
+// Design the following Logic Gates/ Circuits using COAVL simulator. Use the default modules provided in the simulator unless asked to use basic gates. Name and Roll Number must be visible in each assignment. Show waveform in Sequential designs.
+
+1) AND, OR, NOT, NAND, NOR, XOR, XNOR gates
+
+2) 4 to 1 Multiplexer, 2 to 4 Decoder (Using basic logic gates)
+
+3) Full Adder using Half Adder (module) 
+
+4) 4-bit Carry Look Ahead Adder
+
+5) SR-Latch using basic gates
+
+6) 4-bit Shift Registers (Serial-in Serial-out, Parallel-in Parallel-out)
+
+7) 4-bit Synchronous ring counter
+
+8) 1-bit ALU using basic gates/ Adder with the following operations
+
+            00, A AND B
+
+            01, A NOR B
+
+            10, A XNOR B
+
+            11, A ADD B
+
+9) 4-bit ALU using 4 1-bit ALU (using module)
+
+10) 4x4 RAM cell using Memory and Decoder module
